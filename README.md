@@ -10,4 +10,4 @@ Below is a screenshot of the deployed application
 
 ### Links
 
-![DEPLOYED APPLICATION URL](./Assets/01-html-css-git-homework-demo.png)
+![DEPLOYED APPLICATION URL](https://victorlmorales.github.io/challenge-1/)
