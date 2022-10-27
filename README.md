@@ -10,4 +10,4 @@ Below is a screenshot of the deployed application
 
 ### Links
 
-![DEPLOYED APPLICATION URL](https://victorlmorales.github.io/challenge-1/)
+[DEPLOYED APPLICATION URL](https://victorlmorales.github.io/challenge-1/)
